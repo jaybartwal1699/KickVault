@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "986671790515",
+    "project_id": "kick-vault-54bd7",
+    "storage_bucket": "kick-vault-54bd7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986671790515:android:052f866e19f90d7916b3c6",
+        "android_client_info": {
+          "package_name": "com.example.kickvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986671790515-q29e2kngvvejfrjskheg9h84rj903vha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kickvault",
+            "certificate_hash": "16e42c563d3ce9e248351cd25fd37f2905bf0e68"
+          }
+        },
+        {
+          "client_id": "986671790515-rc7oh9t0k6oi1rfsapcci05opu1cpi74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzc7cSLEUFBjxRe5oh12u8P2aJcEMd15I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986671790515-rc7oh9t0k6oi1rfsapcci05opu1cpi74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986671790515-s835k5bp53raqv9u6fm3ltlju67fqaod.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kickvault"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
